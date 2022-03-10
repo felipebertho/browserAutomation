@@ -1,4 +1,4 @@
-## Script para abertura de janelas e abas automáticas no seu navegador.
+## Automatização do seu navegador
 
 
 ### Libraries necessárias do Python:
