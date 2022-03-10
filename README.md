@@ -1,11 +1,11 @@
-##Script para abertura de abas automáticas no browser.
+## Script para abertura de abas automáticas no browser.
 
 
-###Libraries necessárias do Python:
+### Libraries necessárias do Python:
 
 - webbrowser
 
-- Utiulização : import webbrowser.
+- Utilização no Python : import webbrowser.
 
 
 #### Uso do Script
@@ -18,7 +18,7 @@ Após editar as urls basta executar o script e aproveitar a sua automação =)
 
 Dentro de  " c = webbrowser.get('firefox') ", no lugar de 'firefox', substitua pelo seu browser ou pelo navegador padrão do seu sistema operacional, utilizando = 'windows-default'
 
-###Tabela de sistemas operacionais:
+### Tabela de sistemas operacionais:
 
 
 Type Name
