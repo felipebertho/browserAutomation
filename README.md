@@ -1,4 +1,4 @@
-## Script para abertura de abas automáticas no browser.
+## Script para abertura de janelas e abas automáticas no seu navegador.
 
 
 ### Libraries necessárias do Python:
@@ -7,14 +7,27 @@
 
 - Utilização no Python : import webbrowser.
 
+### Instalação Python v3.10
 
-#### Uso do Script
+#### Usuários Windows
 
-Dentro do código você verá os campos para editar e personalizar o script de acordo com cada url que queira abrir automaticamente.
+- Faça o download da última versão do python pelo link : https://www.python.org/downloads/
+- Após o python instalado, seu sistema vai estar apto a executar o script em .py
 
-Após editar as urls basta executar o script e aproveitar a sua automação =)
+### Usuários Linux
 
-####Dicas
+- Basta executar o comnado em seu terminal linux : sudo apt-get install python3
+- YUM se necessário, execute o comando : yum -y install python3-pip
+
+
+#### Uso do Script e edição
+
+- Dentro do código você verá os campos para editar e personalizar o script de acordo com cada url que queira abrir automaticamente.
+- Você pode editar as URL's utilizando qualquer editor de sua preferência.
+
+- Após editar as urls basta executar o script e aproveitar a sua automação =)
+
+#### Configuração do Browser
 
 Dentro de  " c = webbrowser.get('firefox') ", no lugar de 'firefox', substitua pelo seu browser ou pelo navegador padrão do seu sistema operacional, utilizando = 'windows-default'
 
