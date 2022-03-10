@@ -7,14 +7,14 @@
 
 - Utilização no Python : import webbrowser.
 
-### Instalação Python v3.10
+## Instalação Python v3.10
 
 #### Usuários Windows
 
 - Faça o download da última versão do python pelo link : https://www.python.org/downloads/
 - Após o python instalado, seu sistema vai estar apto a executar o script em .py
 
-### Usuários Linux
+#### Usuários Linux
 
 - Basta executar o comnado em seu terminal linux : sudo apt-get install python3
 - YUM se necessário, execute o comando : yum -y install python3-pip
@@ -31,7 +31,7 @@
 
 Dentro de  " c = webbrowser.get('firefox') ", no lugar de 'firefox', substitua pelo seu browser ou pelo navegador padrão do seu sistema operacional, utilizando = 'windows-default'
 
-### Tabela de sistemas operacionais:
+## Tabela de sistemas operacionais:
 
 
 Type Name
